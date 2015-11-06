@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">BTPlay03</string>
+    <string name="rstr_connect">Connect</string>
+    <string name="rstr_disconnect">Disconnect</string>
+
+    <string name="xv_connectBtn">Connect</string>
+    <string name="xv_diconnectBtn">Disconnect</string>
+    <string name="xv_connectionStatus">Not Connected</string>
+    <string name="xv_connection">NXT Device BlueTooth Connection</string>
+    <string name="xv_driveStraightBtn"></string>
+    <string name="xv_driveBackBtn"></string>
+    <string name="xv_driveLeftBtn"></string>
+    <string name="xv_driveRightBtn"></string>
+</resources>
